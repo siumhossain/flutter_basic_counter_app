@@ -4,7 +4,7 @@ Basic id card design
 
 ## Getting Started
 ### Screen_shoot for this app
-![Image-of-basic-id-card-app](./images/screen.jpg)
+![Image-of-basic-id-card-app](./images/screen.png)
 
 This project is a starting point for a Flutter application.
 
